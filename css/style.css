@@ -4,6 +4,14 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
+@font-face {
+  font-family: 'Moving Skate';
+  src: url('../fonts/Moving Skate.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html, body{
 	margin:0;
 	font-size: 100%;
@@ -307,8 +315,8 @@ a.navbar-brand {
 
 .navbar-default .navbar-brand {
     color: #FFC107;
-    font-size: 36px;
-	font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+	font-family: 'Moving Skate';
 }
 
 .navbar-default .navbar-brand:hover,
@@ -529,7 +537,7 @@ a.navbar-brand {
 }
 
 #slider3-pager a {
-    display: inline-table;
+    display: inline-block;
 }
 
 #slider3-pager img {
@@ -583,7 +591,7 @@ a.rslides_nav.rslides1_nav.next {
 }
 
 ul#slider li:nth-child(1) {
-    background: url(../images/MainSlide1.png)no-repeat 0px 0px;
+    background: url(../images/1a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -593,7 +601,7 @@ ul#slider li:nth-child(1) {
 }
 
 ul#slider li:nth-child(2) {
-    background: url(../images/MainSlide2.png)no-repeat 0px 0px;
+    background: url(../images/2a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -603,7 +611,7 @@ ul#slider li:nth-child(2) {
 }
 
 ul#slider li:nth-child(3) {
-    background: url(../images/MainSlide3.png)no-repeat 0px 0px;
+    background: url(../images/3a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -612,8 +620,9 @@ ul#slider li:nth-child(3) {
     min-height: 770px;
 }
 
+
 ul#slider li:nth-child(4) {
-    background: url(../images/MainSlide4.png)no-repeat 0px 0px;
+    background: url(../images/4a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -623,7 +632,7 @@ ul#slider li:nth-child(4) {
 }
 
 ul#slider li:nth-child(5) {
-    background: url(../images/MainSlide5.jpg)no-repeat 0px 0px;
+    background: url(../images/5a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -633,7 +642,7 @@ ul#slider li:nth-child(5) {
 }
 
 ul#slider li:nth-child(6) {
-    background: url(../images/MainSlide6.png)no-repeat 0px 0px;
+    background: url(../images/6a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -643,7 +652,7 @@ ul#slider li:nth-child(6) {
 }
 
 ul#slider li:nth-child(7) {
-    background: url(../images/MainSlide7.png)no-repeat 0px 0px;
+    background: url(../images/7a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -653,7 +662,7 @@ ul#slider li:nth-child(7) {
 }
 
 ul#slider li:nth-child(8) {
-    background: url(../images/MainSlide8.png)no-repeat 0px 0px;
+    background: url(../images/8a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -663,7 +672,7 @@ ul#slider li:nth-child(8) {
 }
 
 ul#slider li:nth-child(9) {
-    background: url(../images/MainSlide9.png)no-repeat 0px 0px;
+    background: url(../images/9a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -673,7 +682,7 @@ ul#slider li:nth-child(9) {
 }
 
 ul#slider li:nth-child(10) {
-    background: url(../images/MainSlide10.png)no-repeat 0px 0px;
+    background: url(../images/10a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -690,7 +699,7 @@ ul#slider li:nth-child(10) {
         letter-spacing: 2px;
     }
 	ul#slider li:nth-child(1),ul#slider li:nth-child(2),ul#slider li:nth-child(3),ul#slider li:nth-child(4),ul#slider li:nth-child(5),ul#slider li:nth-child(6),ul#slider li:nth-child(7),ul#slider li:nth-child(8),ul#slider li:nth-child(9),ul#slider li:nth-child(10) {
-		max-height: 650px;
+		min-height: 650px;
 	}
 	.agile_banner_text_info {
 		top: 35%;
