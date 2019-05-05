@@ -591,7 +591,7 @@ a.rslides_nav.rslides1_nav.next {
 }
 
 ul#slider li:nth-child(1) {
-    background: url(../images/1a.jpg)no-repeat 0px 0px;
+    background: url(../images/6a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -642,7 +642,7 @@ ul#slider li:nth-child(5) {
 }
 
 ul#slider li:nth-child(6) {
-    background: url(../images/6a.jpg)no-repeat 0px 0px;
+    background: url(../images/1a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -933,6 +933,7 @@ h3.heading span:after{
     color: #333;
     text-transform: capitalize;
     letter-spacing: 2px;
+    padding-left: 10px;
 }
 .team_grid1 p {
     font-size: 15px;
@@ -940,6 +941,7 @@ h3.heading span:after{
     line-height: 28px;
     margin: 1em 0 0;
 	color: #333;
+    padding-left: 10px;
 }
 .team_grid1 p.second_para {
     font-size: 15px;
