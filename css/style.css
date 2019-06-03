@@ -802,18 +802,19 @@ h3.heading span:after{
 }
 .about_left  p {
     font-size: 15px;
-    letter-spacing: 1px;
-    line-height: 28px;
+    letter-spacing: 0px;
+    line-height: 25px;
     color: #777;
     margin: 1em 0;
 }
 .about_left  p.second_para {
     font-size: 15px;
     letter-spacing: 0px;
-    line-height: 28px;
-    color: #333;
+    line-height: 25px;
+    color: #777;
     margin: 1em 0;
 }
+
 .left span.fa.fa-angle-left,.right span.fa.fa-angle-right {
     font-weight: 400;
     position: absolute;
@@ -956,9 +957,9 @@ h3.heading span:after{
 .team_grid1 p.second_para {
     font-size: 15px;
     letter-spacing: 0px;
-    line-height: 28px;
+    line-height: 25px;
     margin: 1em 0;
-	color: #666;
+	color: #777;
 }
 .w3l_team_grid {
 	text-align: center;
