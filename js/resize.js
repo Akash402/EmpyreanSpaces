@@ -1,7 +1,7 @@
 function onResizeFn()
 {
-var shellWidth = 1024;
-var shellHeight= 768;
+var shellWidth = 1920;
+var shellHeight= 1080;
 var newShellHeight;
 var newShellWidth;
 var agent=navigator.userAgent.toLowerCase();
