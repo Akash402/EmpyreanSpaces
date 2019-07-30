@@ -662,16 +662,6 @@ ul#slider li:nth-child(6) {
 }
 
 ul#slider li:nth-child(7) {
-    background: url(../images/7a.jpg)no-repeat 0px 0px;
-    background-size: cover;
-    -webkit-background-size: contain;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
-    min-height: 770px;
-}
-
-ul#slider li:nth-child(8) {
     background: url(../images/8a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: contain;
@@ -681,7 +671,7 @@ ul#slider li:nth-child(8) {
     min-height: 770px;
 }
 
-ul#slider li:nth-child(9) {
+ul#slider li:nth-child(8) {
     background: url(../images/9a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: contain;
@@ -691,7 +681,7 @@ ul#slider li:nth-child(9) {
     min-height: 770px;
 }
 
-ul#slider li:nth-child(10) {
+ul#slider li:nth-child(9) {
     background: url(../images/10a.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: contain;
@@ -708,7 +698,7 @@ ul#slider li:nth-child(10) {
         font-size: 4em;
         letter-spacing: 2px;
     }
-	ul#slider li:nth-child(1),ul#slider li:nth-child(2),ul#slider li:nth-child(3),ul#slider li:nth-child(4),ul#slider li:nth-child(5),ul#slider li:nth-child(6),ul#slider li:nth-child(7),ul#slider li:nth-child(8),ul#slider li:nth-child(9),ul#slider li:nth-child(10) {
+	ul#slider li:nth-child(1),ul#slider li:nth-child(2),ul#slider li:nth-child(3),ul#slider li:nth-child(4),ul#slider li:nth-child(5),ul#slider li:nth-child(6),ul#slider li:nth-child(7),ul#slider li:nth-child(8),ul#slider li:nth-child(9) {
 		min-height: 650px;
 	}
 	.agile_banner_text_info {
@@ -1963,7 +1953,7 @@ ul.con_inner_text.midimg li {
 		width: 90%;
 		font-size: 14px;
 	}
-	ul#slider li:nth-child(1), ul#slider li:nth-child(2), ul#slider li:nth-child(3), ul#slider li:nth-child(4), ul#slider li:nth-child(5), ul#slider li:nth-child(6), ul#slider li:nth-child(7), ul#slider li:nth-child(8), ul#slider li:nth-child(9), ul#slider li:nth-child(10) {
+	ul#slider li:nth-child(1), ul#slider li:nth-child(2), ul#slider li:nth-child(3), ul#slider li:nth-child(4), ul#slider li:nth-child(5), ul#slider li:nth-child(6), ul#slider li:nth-child(7), ul#slider li:nth-child(8), ul#slider li:nth-child(9) {
 		min-height: 580px;
         margin-top: 150px;
         margin-bottom: -100px;
@@ -2237,7 +2227,7 @@ ul.con_inner_text.midimg li {
 	.agileits_w3layouts_banner_nav {
 		padding: .5em 0;
 	}
-	ul#slider li:nth-child(1), ul#slider li:nth-child(2), ul#slider li:nth-child(3), ul#slider li:nth-child(4), ul#slider li:nth-child(5), ul#slider li:nth-child(6), ul#slider li:nth-child(7), ul#slider li:nth-child(8), ul#slider li:nth-child(9), ul#slider li:nth-child(10) {
+	ul#slider li:nth-child(1), ul#slider li:nth-child(2), ul#slider li:nth-child(3), ul#slider li:nth-child(4), ul#slider li:nth-child(5), ul#slider li:nth-child(6), ul#slider li:nth-child(7), ul#slider li:nth-child(8), ul#slider li:nth-child(9) {
 		min-height: 540px;
         margin-top: 150px;
         margin-bottom: -100px;
@@ -2323,7 +2313,7 @@ ul.con_inner_text.midimg li {
 	.agile_banner_text_info a {
 		padding: 8px 15px;
 	}
-	ul#slider li:nth-child(1), ul#slider li:nth-child(2), ul#slider li:nth-child(3), ul#slider li:nth-child(4), ul#slider li:nth-child(5), ul#slider li:nth-child(6), ul#slider li:nth-child(7), ul#slider li:nth-child(8), ul#slider li:nth-child(9), ul#slider li:nth-child(10) {
+	ul#slider li:nth-child(1), ul#slider li:nth-child(2), ul#slider li:nth-child(3), ul#slider li:nth-child(4), ul#slider li:nth-child(5), ul#slider li:nth-child(6), ul#slider li:nth-child(7), ul#slider li:nth-child(8), ul#slider li:nth-child(9) {
 		min-height: 450px;
         margin-top: 150px;
         margin-bottom: -100px;
@@ -2644,7 +2634,7 @@ ul.con_inner_text.midimg li {
 		letter-spacing: 1px;
 		line-height: 25px;
 	}
-	ul#slider li:nth-child(1), ul#slider li:nth-child(2), ul#slider li:nth-child(3), ul#slider li:nth-child(4), ul#slider li:nth-child(5), ul#slider li:nth-child(6), ul#slider li:nth-child(7), ul#slider li:nth-child(8), ul#slider li:nth-child(9), ul#slider li:nth-child(10) {
+	ul#slider li:nth-child(1), ul#slider li:nth-child(2), ul#slider li:nth-child(3), ul#slider li:nth-child(4), ul#slider li:nth-child(5), ul#slider li:nth-child(6), ul#slider li:nth-child(7), ul#slider li:nth-child(8), ul#slider li:nth-child(9) {
 		min-height: 420px;
         margin-top: 150px;
         margin-bottom: -100px;
